@@ -1,0 +1,6 @@
+alert("Hello")
+confirm("Are you ready?")
+console.log("Name: Abdu")
+console.log("Age: 18")
+console.log("City: Buston")
+console.log("How many day I live: " + 18 * 365)
